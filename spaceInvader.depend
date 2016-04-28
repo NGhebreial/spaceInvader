@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1431962873 source:c:\users\nghebreial.blinkit\codeblocks\spaceinvader\main.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<IL/ilut.h>
+
+1430751853 source:c:\users\nghebreial.blinkit\codeblocks\holamundo\holamundo.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1432576848 source:c:\users\victor\dropbox\proyecto silla de ruedas\spaceinvader\spaceinvaderdefinitivo\main.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1432573248 source:c:\users\nghebreial.blinkit\dropbox\proyecto silla de ruedas\spaceinvader\spaceinvaderdefinitivo\main.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1432576848 source:c:\users\victor\dropbox\proyecto silla de ruedas\spaceinvader\spaceinvader2d\main.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
